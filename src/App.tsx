@@ -1,6 +1,7 @@
 import Card from "./components/Card/Card"
 import Contador from "./components/Contador/Contador"
 import Task from "./components/Task/Task"
+import Home from "./components/Home/Home"
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
    <Contador/>
 
    <Task/>
+
+   <Home/>
 
 
   

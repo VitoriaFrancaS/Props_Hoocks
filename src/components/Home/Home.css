@@ -1,6 +1,6 @@
-.container{
+.Home{
     width: 500px;
-    border: 5px solid purple;
+    border: 5px solid green;
     margin: 0 0 1rem 0;
     padding: 16px;
 
@@ -8,10 +8,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
-
-p{
-    font-size: 24px;
 }
 
 button{
